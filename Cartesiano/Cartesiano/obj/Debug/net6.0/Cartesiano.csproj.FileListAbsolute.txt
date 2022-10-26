@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\Cartesiano.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\Cartesiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\Cartesiano.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\Cartesiano.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\Cartesiano.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\bin\Debug\net6.0\Cartesiano.exe
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\bin\Debug\net6.0\Cartesiano.deps.json
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\bin\Debug\net6.0\Cartesiano.runtimeconfig.json
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\bin\Debug\net6.0\Cartesiano.dll
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\bin\Debug\net6.0\Cartesiano.pdb
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\Cartesiano.dll
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\refint\Cartesiano.dll
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\Cartesiano.pdb
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\Cartesiano.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\Cartesiano\Cartesiano\obj\Debug\net6.0\ref\Cartesiano.dll

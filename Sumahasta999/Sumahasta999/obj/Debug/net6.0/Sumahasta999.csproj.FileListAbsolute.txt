@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\Sumahasta999.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\Sumahasta999.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\Sumahasta999.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\Sumahasta999.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\Sumahasta999.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\bin\Debug\net6.0\Sumahasta999.exe
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\bin\Debug\net6.0\Sumahasta999.deps.json
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\bin\Debug\net6.0\Sumahasta999.runtimeconfig.json
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\bin\Debug\net6.0\Sumahasta999.dll
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\bin\Debug\net6.0\Sumahasta999.pdb
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\Sumahasta999.dll
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\refint\Sumahasta999.dll
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\Sumahasta999.pdb
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\Sumahasta999.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\Sumahasta999\Sumahasta999\obj\Debug\net6.0\ref\Sumahasta999.dll

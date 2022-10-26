@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\Testempleado.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\Testempleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\Testempleado.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\Testempleado.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\Testempleado.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\bin\Debug\net6.0\Testempleado.exe
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\bin\Debug\net6.0\Testempleado.deps.json
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\bin\Debug\net6.0\Testempleado.runtimeconfig.json
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\bin\Debug\net6.0\Testempleado.dll
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\bin\Debug\net6.0\Testempleado.pdb
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\Testempleado.dll
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\refint\Testempleado.dll
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\Testempleado.pdb
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\Testempleado.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\Testempleado\Testempleado\obj\Debug\net6.0\ref\Testempleado.dll

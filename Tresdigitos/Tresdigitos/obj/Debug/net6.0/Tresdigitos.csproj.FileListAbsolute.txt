@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\Tresdigitos.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\Tresdigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\Tresdigitos.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\Tresdigitos.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\Tresdigitos.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\bin\Debug\net6.0\Tresdigitos.exe
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\bin\Debug\net6.0\Tresdigitos.deps.json
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\bin\Debug\net6.0\Tresdigitos.runtimeconfig.json
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\bin\Debug\net6.0\Tresdigitos.dll
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\bin\Debug\net6.0\Tresdigitos.pdb
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\Tresdigitos.dll
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\refint\Tresdigitos.dll
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\Tresdigitos.pdb
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\Tresdigitos.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\Tresdigitos\Tresdigitos\obj\Debug\net6.0\ref\Tresdigitos.dll

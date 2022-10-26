@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\bin\Debug\net6.0\Multiplos8.exe
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\bin\Debug\net6.0\Multiplos8.deps.json
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\bin\Debug\net6.0\Multiplos8.runtimeconfig.json
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\bin\Debug\net6.0\Multiplos8.dll
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\bin\Debug\net6.0\Multiplos8.pdb
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\Multiplos8.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\Multiplos8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\Multiplos8.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\Multiplos8.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\Multiplos8.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\Multiplos8.dll
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\refint\Multiplos8.dll
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\Multiplos8.pdb
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\Multiplos8.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\Multiplos8\Multiplos8\obj\Debug\net6.0\ref\Multiplos8.dll

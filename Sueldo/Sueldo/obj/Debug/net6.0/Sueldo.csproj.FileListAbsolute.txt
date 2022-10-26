@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\bin\Debug\net6.0\Sueldo.exe
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\bin\Debug\net6.0\Sueldo.deps.json
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\bin\Debug\net6.0\Sueldo.runtimeconfig.json
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\bin\Debug\net6.0\Sueldo.dll
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\bin\Debug\net6.0\Sueldo.pdb
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\Sueldo.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\Sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\Sueldo.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\Sueldo.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\Sueldo.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\Sueldo.dll
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\refint\Sueldo.dll
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\Sueldo.pdb
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\Sueldo.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\Sueldo\Sueldo\obj\Debug\net6.0\ref\Sueldo.dll

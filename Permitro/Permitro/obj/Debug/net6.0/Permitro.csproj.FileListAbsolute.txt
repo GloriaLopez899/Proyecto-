@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\Permitro\Permitro\bin\Debug\net6.0\Permitro.exe
+C:\Users\gtm32\source\repos\Permitro\Permitro\bin\Debug\net6.0\Permitro.deps.json
+C:\Users\gtm32\source\repos\Permitro\Permitro\bin\Debug\net6.0\Permitro.runtimeconfig.json
+C:\Users\gtm32\source\repos\Permitro\Permitro\bin\Debug\net6.0\Permitro.dll
+C:\Users\gtm32\source\repos\Permitro\Permitro\bin\Debug\net6.0\Permitro.pdb
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\Permitro.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\Permitro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\Permitro.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\Permitro.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\Permitro.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\Permitro.dll
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\refint\Permitro.dll
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\Permitro.pdb
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\Permitro.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\Permitro\Permitro\obj\Debug\net6.0\ref\Permitro.dll
